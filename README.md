@@ -1,4 +1,4 @@
-# 07-Intro to Deep Learning and Image Recognition
+# 08-Intro to Deep Learning and Image Recognition
 
 # Distribution Statement
 
